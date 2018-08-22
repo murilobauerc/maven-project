@@ -1,5 +1,6 @@
 # Maven project :shipit:
 
+### O que é?
 > O Maven é uma ferramenta de integração de projetos. É responsável por gerenciar dependências, controlar versão de artefatos, gerar relatórios de produtividade, garantir execução de testes, manter nível de qualidade do código dentre outras.
 
 > Será criado uma aplicação java simples utilizando o plugin maven-archetype-quickstart.
