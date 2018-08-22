@@ -29,6 +29,7 @@ export PATH="C:\Program Files\apache-maven-3.5.4\bin":$PATH
 
 
 
+*Referências*
 ```
-*http://www.dclick.com.br/2010/09/15/o-que-e-o-maven-e-seus-primeiros-passos-com-a-ferramenta/*
+http://www.dclick.com.br/2010/09/15/o-que-e-o-maven-e-seus-primeiros-passos-com-a-ferramenta/
 ```
