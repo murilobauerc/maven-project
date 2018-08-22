@@ -34,7 +34,10 @@ mvn compile
 mvn package
 Maven irá criar um arquivo jar “nomeProjeto-1.0-SNAPSHOT.jar”  
 ```
-
+5. Instalando as dependências
+```
+mvn install
+```
 
 
 
