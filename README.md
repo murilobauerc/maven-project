@@ -1,17 +1,17 @@
 # Maven project :shipit:
 
-### O que È?
-> O Maven È uma ferramenta de integraÁ„o de projetos. … respons·vel por gerenciar dependÍncias, controlar vers„o de artefatos, gerar relatÛrios de produtividade, garantir execuÁ„o de testes, manter nÌvel de qualidade do cÛdigo dentre outras.
+### O que √©?
+> O Maven √© uma ferramenta de integra√ß√£o de projetos. √â respons√°vel por gerenciar depend√™ncias, controlar vers√£o de artefatos, gerar relat√≥rios de produtividade, garantir execu√ß√£o de testes, manter n√≠vel de qualidade do c√≥digo dentre outras.
 
-> Ser· criado uma aplicaÁ„o java simples utilizando o plugin maven-archetype-quickstart.
+> Ser√° criado uma aplica√ß√£o java simples utilizando o plugin maven-archetype-quickstart.
 
-## PrÈ-requisitos b·sicos:
+## Pr√©-requisitos b√°sicos:
 
 1. [Oracle JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 2. [Maven](http://maven.apache.org/)
 
 ## Para executar no terminal, devemos ter:
 
-1. Adicionar *Java* e *Maven* ao PATH do Windows:
+1. Adicionar **Java** e **Maven** ao PATH do Windows:
 	```export PATH="C:\Program Files\apache-maven-3.5.4\bin":$PATH```
 
