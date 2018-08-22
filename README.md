@@ -39,5 +39,5 @@ Maven irá criar um arquivo jar “nomeProjeto-1.0-SNAPSHOT.jar”
 
 
 - *Referências*
-http://www.dclick.com.br/2010/09/15/o-que-e-o-maven-e-seus-primeiros-passos-com-a-ferramenta/
+[O que é maven?](http://www.dclick.com.br/2010/09/15/o-que-e-o-maven-e-seus-primeiros-passos-com-a-ferramenta/)
 
