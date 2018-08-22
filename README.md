@@ -7,8 +7,8 @@
 
 ## Pré-requisitos básicos:
 
-1. [Oracle JDK] (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-2. [Maven] (http://maven.apache.org/)
+1. [Oracle JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+2. [Maven](http://maven.apache.org/)
 
 ## Para executar no terminal, devemos ter:
 
