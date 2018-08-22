@@ -20,8 +20,10 @@ export PATH="C:\Program Files\apache-maven-3.5.4\bin":$PATH
 
 ```
 
-2. 
-
+2. Iniciando um projeto maven:
+```
+mvn  archetype:generate
+```
 
 
 
