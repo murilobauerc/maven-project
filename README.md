@@ -12,7 +12,7 @@
 
 ## Para executar no terminal, devemos ter:
 
-1. Adicionar **Java** e **Maven** ao PATH do Windows:
+1. **Java** e **Maven** ao PATH do Windows:
 ```
 export JAVA_HOME=/C/Program/ Files/Java/jdk1.8.0_171
 export PATH=${JAVA_HOME}/bin:$PATH
@@ -25,12 +25,22 @@ export PATH="C:\Program Files\apache-maven-3.5.4\bin":$PATH
 mvn  archetype:generate
 ```
 
-
-
-
+3. Compilando um projeto:
+```
+mvn compile
+```
+4. 
+```
+mvn package
+Maven irá criar um arquivo jar “nomeProjeto-1.0-SNAPSHOT.jar”  
+```
+5. Instalando as dependências
+```
+mvn install
+```
 
 
 
 - *Referências*
-http://www.dclick.com.br/2010/09/15/o-que-e-o-maven-e-seus-primeiros-passos-com-a-ferramenta/
+[O que é maven?](http://www.dclick.com.br/2010/09/15/o-que-e-o-maven-e-seus-primeiros-passos-com-a-ferramenta/)
 
