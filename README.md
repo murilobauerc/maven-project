@@ -13,5 +13,7 @@
 ## Para executar no terminal, devemos ter:
 
 1. Adicionar **Java** e **Maven** ao PATH do Windows:
-	```export PATH="C:\Program Files\apache-maven-3.5.4\bin":$PATH```
+```
+export PATH="C:\Program Files\apache-maven-3.5.4\bin":$PATH
+```
 
