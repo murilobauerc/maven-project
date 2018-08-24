@@ -1,6 +1,6 @@
 package exemplo02;
 
-import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.*;
 
 import org.junit.Test;
 
@@ -17,4 +17,11 @@ public class AppTest
     {
         assertTrue( true );
     }
+	
+	@Test
+	public void sumTest()
+	{
+		assertEquals(4, App.sum(2, 2));
+	}
+	
 }
