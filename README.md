@@ -39,8 +39,10 @@ mvn package
 ```
 mvn install
 ```
-
-
+6. Rodando a aplicação:
+```
+mvn package && java -jar target/gs-spring-boot-0.1.0.jar --server.port=8081
+```
 
 - *Referências*
 [O que é maven?](http://www.dclick.com.br/2010/09/15/o-que-e-o-maven-e-seus-primeiros-passos-com-a-ferramenta/)
