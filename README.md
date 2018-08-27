@@ -30,10 +30,9 @@ mvn archetype:generate
 mvn compile
 ```
 
-4. Gerando um pacote da sua aplicação dentro do diretório target
+4. Maven irá criar um arquivo jar “nomeProjeto-1.0-SNAPSHOT.jar"
 ```
 mvn package
-Maven irá criar um arquivo jar “nomeProjeto-1.0-SNAPSHOT.jar”  
 ```
 
 5. Instalando as dependências
