@@ -21,23 +21,19 @@ export PATH="C:\Program Files\apache-maven-3.5.4\bin":$PATH
 ```
 
 2. Iniciando um projeto maven:
-```
-mvn  archetype:generate
-```
+`mvn  archetype:generate`
 
 3. Compilando um projeto:
-```
-mvn compile
-```
-4. 
+`mvn compile`
+
+4. Gerando um pacote da sua aplicação dentro do diretório target
 ```
 mvn package
 Maven irá criar um arquivo jar “nomeProjeto-1.0-SNAPSHOT.jar”  
+
 ```
 5. Instalando as dependências
-```
-mvn install
-```
+`mvn install`
 
 
 
