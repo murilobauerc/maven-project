@@ -30,7 +30,7 @@ mvn archetype:generate
 mvn compile
 ```
 
-4. Maven irá criar um arquivo jar “nomeProjeto-1.0-SNAPSHOT.jar"
+4. Criando um arquivo jar “nomeProjeto-1.0-SNAPSHOT.jar" dentro de sua aplicação:
 ```
 mvn package
 ```
