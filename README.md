@@ -35,11 +35,7 @@ mvn compile
 mvn package
 ```
 
-5. Instalando as dependências
-```
-mvn install
-```
-6. Rodando a aplicação:
+5. Rodando a aplicação:
 ```
 mvn package && java -jar target/gs-spring-boot-0.1.0.jar --server.port=8081
 ```
