@@ -22,7 +22,7 @@ export PATH="C:\Program Files\apache-maven-3.5.4\bin":$PATH
 
 2. Iniciando um projeto maven:
 ```
-mvn  archetype:generate
+mvn archetype:generate
 ```
 
 3. Compilando um projeto:
